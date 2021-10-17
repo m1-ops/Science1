@@ -1,5 +1,8 @@
 C6.4 Electrolysis of aqueous solutions
 -------------------------------------------------------------------------------
+ANODE - if there is halide ions, the halogen forms, if there is not then oxygen forms
+CATHODE - Hydrogen is produced if the metal is more reactive than hydrogen, if not then the metal is formed
+
 Required practical: Electrolysis
 --------------------------------
 1) Pour approx 50cm^3 of copper (II) chloride solution into a beaker
