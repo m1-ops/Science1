@@ -1,0 +1,15 @@
+C7.5 Chemical cells and batteries
+------------------------------------------------------------------------------
+in a circuit the electrons will always flow from the more reactive electrode to the less reactive electrode
+
+if one electrode is zinc
+and the other is copper
+
+the zinc will lose electrons ans Transfer to the copper
+
+Zn + CuSO4 --> ZnSO4 + Cu
+
+Zn --> Zn2+ + 2e-
+Cu2+ + 2e- --> Cu
+
+The greater the difference in reactivity between two metals used, the higher the voltage

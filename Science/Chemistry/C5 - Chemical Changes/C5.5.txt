@@ -1,0 +1,21 @@
+C5.5 Salts for Insoluble Bases
+------------------------------------------------------------------------------
+
+Metal oxide + acid --> salt + water
+Metal hydroxide + acid --> salt + water
+
+------------------------------------------------------------------------------
+BASE = Substances that neutralse acids eg. metal oxides
+ALKALI = Bases that are soluble eg. metal hydroxide (when in water, forms OH-)
+
+All alkalis are bases but not all bases are alkalis
+
+  CRYSTALISATION
+1) Place some sulfuric acid in a beaker and warm it on a tripod
+2) Add a spatula of copper(II) oxide powder to the acid and stir with a glass rod
+3) Continue adding copper(II) oxide powder until it is in excess. Excess will be seen
+4) Filter the mixture to remove excess
+5) Pour the filtrate into an evaporating basement
+6) Heat the copper sulfate solution until crystals appear on the edge
+7) Remove the basin from the heat and allow to dry
+8) Remove any water leftover by patting with filter paper

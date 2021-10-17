@@ -1,0 +1,7 @@
+C5.7 Neutralisation and the pH scale
+-------------------------------------------------------------------------------
+pH 0-6 acidic
+pH 8-14 alkaline
+pH 7 NEUTRAL
+
+H+ + OH- --> H2O

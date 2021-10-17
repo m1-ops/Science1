@@ -1,0 +1,39 @@
+C5.2 DISPLACEMENT REACTIONS
+----------------------------------------------------------------------------------------------------------
+
+DISPLACEMENT REACTIONS - Where a MORE reactive metal will DISPLACE a LESS reactive metal from a compound
+
+__________________________________________________________
+Magnesium + Copper Sulfate --> Magnesium Sulfate + Copper |
+Magnesium + Copper Sulfate --> Magnesium Sulfate + Copper |
+Magnesium + Copper Sulfate --> Magnesium Sulfate + Copper |
+Magnesium + Copper Sulfate --> Magnesium Sulfate + Copper |
+-----------------------------------------------------------
+
+Reactivity Series
+-----------------
+Potassium -	K
+Sodium -	Na
+Lithium -	Li
+Calcium -	Ca
+Magnesium - Mg
+Aluminium -	Al
+Zinc - 		Zn
+Iron - 		Fe
+Tin - 		Sn
+Lead - 		Pb
+Copper - 	Cu
+Silver - 	Ag
+Gold - 		Au
+-----------------
+
+OILRIG - oxidation is loss, reduction is gain
+
+Ionic Equation for displacement:
+Fe₍ₛ₎ + Cu²⁺₍ₐₚ₎ --> Fe²⁺₍ₐₚ₎ + Cu₍ₛ₎
+
+Half Equation for displacement:
+Fe₍ₛ₎ --> Fe²⁺₍ₐₚ₎ + 2e⁻
+Cu²⁺₍ₐₚ₎ + 2e⁻ --> Cu₍ₛ₎
+
+Known as REDOX reactions (Oxidation and Reduction in the same experiment)

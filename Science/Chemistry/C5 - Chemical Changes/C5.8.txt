@@ -1,0 +1,15 @@
+C5.8 Strong and Weak Acids
+-------------------------------------------------------------------------------
+Lemon - Citric acid
+Milk - Lactic acid
+Coke - Carbonic acid
+Green tea - Tannic acid
+Orange - Ascorbic acid
+Vinegar - Ehtanoic acid
+
+A dilute solution is one in which there is a relatively small amount of solute dissolved in the solution
+
+A concentrated solution contains a relatively large amount of solute
+
+Strong acid comp. ionises with aq solution
+Weak acid part. ionises with aq solution 

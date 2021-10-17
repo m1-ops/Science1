@@ -1,0 +1,10 @@
+C7.1 Exothermic and Endothermic reactions
+------------------------------------------
+EXOTHERMIC - reaction that releases energy to the surroundings
+ENDOTHERMIC - reaction that takes in energy from surroundings
+
+EXOTHERMIC = HOT
+ENDOTHERMIC = COLD
+
+exothermic eg.
+    Combustion, Oxidisation, Neutralisation

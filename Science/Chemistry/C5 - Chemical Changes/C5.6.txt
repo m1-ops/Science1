@@ -1,0 +1,22 @@
+C5.6 Making more Salts
+----------------------------------------------------------------------
+ACID + ALKALI --> SALT + WATER
+
+H+ + OH- --> H2O
+
+ACID + AMMONIA SOLUTION --> AMMONIUM SALT + WATER
+
+ACID + CARBONATE --> SALT + WATER + CARBON DIOXIDE
+
+Titration
+---------
+1) Use a pipette to transfer 25cm^3 of sodium hydroxide solution into a flask
+2) Add 5 drops of indicator such as menthl orange to the alkali in the conical flask
+3) Place the conical flask into on a white tile so we can see the color change more clearly
+4) Fill a burette with sulfuric acid
+5) Add acid to the alkali until the solution is neutral. we need to add just enough for this to happen
+6) Once we start to see a color change, we now add the acid drop by drop until the solution is neutral
+7) It is important to swirl the solution to make sure the acid and alkali mix
+8) Read the volume of acid added from the burette under the muniscus
+9) Repeat experiment 3x
+10) Calculate the mean

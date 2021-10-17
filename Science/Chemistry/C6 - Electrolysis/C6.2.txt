@@ -1,0 +1,15 @@
+C6.2 Changes at the electrodes
+------------------------------------------------------------------------------
+Cathode:
+        Pb2+ + 2e- --> Pb
+Anode:
+        2Br- --> Br2 + 2e-
+
+Ex.
+    CuBr2 --> Cu2+ + 2Br-
+
+    Cu2+ + 2e- --> Cu (reduced)
+    Br- --> Br2 + 2e- (oxidised)
+
+in aqueous solutions (halide ions > hydroxide > all other negative ions) (anode)
+in aqueous solutions more reactive than hydrogen (hydrogen forms)

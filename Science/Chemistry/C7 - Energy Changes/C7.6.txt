@@ -1,0 +1,19 @@
+C7.6 Fuel Cells
+----------------------------------------------------------------------------
+Hydropgen + Oxygen --> water
+2H2 + O2 --> 2H2O
+
+ANODE:
+      2H2 --> 4H+ + 4e-
+CATHODE:
+      O2 + 4H+ + 4e- --> 2H2O
+
+Advantages of fuel cells
+- Do not need to be electrically recharged
+- No pollutants are produced
+- Can be a range of sizes for different uses
+
+Disadvantages of fuel cells
+- Hydrogen is highly flammable
+- Hydrogen is sometimes produced by non-renewable sources
+- Hydrogen is difficult to store

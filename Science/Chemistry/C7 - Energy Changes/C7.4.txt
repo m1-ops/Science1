@@ -1,0 +1,30 @@
+C7.4 Bond energy calculations
+------------------------------------------------------------------------------
+REQUIRED PRACTICAL 4: TEMPERATURE CHANGE
+-----------------------------------------
+Dependent variable - Temperature change
+Independent variable - volume of sodium hydroxide
+Control variable - Concentration of sodium hydroxide and hydrochloric acid
+
+1) Measure 30cm^3 of dilute hydrochloric acid
+2) Transfer acid to polystyrene cup
+3) Stand polystyrene cup in beaker
+    -Stops from falling over
+4) Use thermometer to measure acid temp.
+    -Record in a table
+5) Measure 5cm^3 of sodium hydroxide solution
+6) Transfer to polystyrene cup
+7) Place plastic lid on top
+    -Has a hole in it
+8) Place thermometer in the hole
+    -Bulb of thermometer must be inside solution
+    -Use thermometer to stir solution
+9) Record the highest temperature reached
+10) Rinse and dry the polystyrene cup
+11) Repeat experiment 3x and calculate the mean
+12) Repeat experiment using 10cm^3 of sodium hydroxide solution
+13) Record results in graph
+
+
+in an exothermic reaction, the energy released from forming new bonds must be negative
+in an endothermic reaction, the energy taken in from breaking bonds must be positive

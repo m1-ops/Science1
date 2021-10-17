@@ -1,0 +1,8 @@
+C6.1 Intro to Electrolysis
+-------------------------------------------------------------------------------
+Cation (POSITIVELY CAHRGED IONS) ---------> Cathode (NEGATIVELY CHARGED ELECTRODE)
+Anion (NEGATIVELY CHARGED IONS) ---------> Anode (POSITIVELY CHARGED ELECTRODE)
+
+2NaCl --> 2Na+ + 2Cl-
+
+An electrolyte is an ionic substance that has been melted or dissolved in water so that the ions are free to move and conduct electricity

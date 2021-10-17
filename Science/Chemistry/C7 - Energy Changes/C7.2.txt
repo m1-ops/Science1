@@ -1,0 +1,5 @@
+C7.2 Using energy transfers from reactions
+------------------------------------------------------------------------------
+You can use a thermometer to find out if the reaction is exothermic or Endothermic
+ENDOTHERMIC - temp decreases
+EXOTHERMIC - temp increases

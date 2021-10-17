@@ -1,0 +1,17 @@
+C6.4 Electrolysis of aqueous solutions
+-------------------------------------------------------------------------------
+Required practical: Electrolysis
+--------------------------------
+1) Pour approx 50cm^3 of copper (II) chloride solution into a beaker
+2) Place a plastic petri dish over the beaker
+    -petri dish has two holes
+3) Insert carbon graphite rod into each hole
+    -These are electrons
+    -They are unreative
+    -Do not touch them together
+4) Attach crocodile leads to the rods
+    -Connect to a low voltage power supply
+5) Select 4v on the power supply
+6) Observe the 2 electrodes
+7) Copper will form at the cathode. Chlorine will form at the anode
+8) To test for chlorine hold blue litmus paper near the anode and it should become bleached

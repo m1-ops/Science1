@@ -1,0 +1,24 @@
+C5.3 Extracting Metals
+----------------------------------------------------------------------------------------------------------
+Reduction of oxide by carbon
+----------------------------
+- Only works when there is a less reactive metal than copper.
+- The removal of oxygen from a compound is called chemical reaction.
+___________________________________________________
+|  METAL OXIDE + CARBON --> METAL + CARBON DIOXIDE |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ex.
+    lead oxide + carbon --> lead + carbon dioxide
+
+-------------------------------
+Reduction of oxide by hydrogen
+-------------------------------
+- Use hydrogen to reduce tungsten
+
+ex.
+    tungsten oxide + hydrogen --> tungsten + water (as steam)
+
+ __________________________________________________________________
+|METALS MORE REACTIVE THAN CARBON ARE EXTRACTED USING ELECTROLYSIS |
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

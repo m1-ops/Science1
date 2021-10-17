@@ -1,0 +1,7 @@
+C7.3 Reaction profiles
+------------------------------------------------------------------------------
+exothermic reactions have a high reactant and low product as it is losing energy
+endothermic reactions have a low reactant and high product as it is taking in energy
+
+bond breaking is endothermic
+bond making is exothermic

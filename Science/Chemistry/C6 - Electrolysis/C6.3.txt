@@ -1,0 +1,19 @@
+C6.3 The extraction of aluminium
+-----------------------------------------------------------------------------
+Bauxite
+  (purified)
+Aluminium oxide
+  (Electrolised)
+Aluminium metal
+
+Aluminium is mixed with cryolite which lowers the melting point
+
+ELECTRODES MUST BE MADE FROM GRAPHITE
+  - High melting
+  - Unreactive
+  - Extremely conductive
+
+At the Cathode:
+      Al3+ + 3e- --> Al
+At the Anode:
+      2O2- --> O2 + 4e-

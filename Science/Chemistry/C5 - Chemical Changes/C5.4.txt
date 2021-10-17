@@ -1,0 +1,9 @@
+C5.4 Salts from metals
+----------------------------------------------------------------------------------------------------------
+- Whenever a reaction takes place between a metal and an acid, a SALT is formed with hydrogen.
+___________________________________
+| METAL + ACID --> SALT + HYDROGEN |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+__________________________________________
+| IRON + HCL --> IRON CHORIDE + HYDROGEN |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
